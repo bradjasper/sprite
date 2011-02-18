@@ -1,0 +1,3 @@
+Simple Python script for generating sprites from the command line
+
+Currently only works with fixed sized sprites (no repeating)
